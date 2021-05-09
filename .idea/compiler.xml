@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="day-active" />
+        <module name="dw-chart" />
         <module name="flinkTest" />
         <module name="gmall-logger" />
         <module name="gmallcommon" />

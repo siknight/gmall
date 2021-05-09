@@ -16,6 +16,7 @@
         <module>gmall-test</module>
         <module>flinkTest</module>
         <module>day-active</module>
+        <module>dw-chart</module>
     </modules>
 
     <parent>
