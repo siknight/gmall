@@ -4,7 +4,7 @@ object test01 {
   def main(args: Array[String]): Unit = {
     val names = List("1 2 3 4")
     names.flatMap(x=>x.split(",")).foreach(x=>print(x))
-
+     print("hahah")
 //    val strings = new util.ArrayList[String]()
 //    strings.add("aa")
 //    strings.add("bb")
