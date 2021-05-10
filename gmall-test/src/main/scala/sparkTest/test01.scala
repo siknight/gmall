@@ -8,6 +8,7 @@ object test01 {
     print("04")
     print("05")
     print("06")
+    print("07")
 //    val strings = new util.ArrayList[String]()
 //    strings.add("aa")
 //    strings.add("bb")
