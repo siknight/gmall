@@ -6,6 +6,7 @@ object test01 {
     names.flatMap(x=>x.split(",")).foreach(x=>print(x))
      print("hahah")
     print("04")
+    print("05")
 //    val strings = new util.ArrayList[String]()
 //    strings.add("aa")
 //    strings.add("bb")
