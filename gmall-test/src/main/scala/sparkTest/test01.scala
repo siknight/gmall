@@ -5,11 +5,7 @@ object test01 {
     val names = List("1 2 3 4")
     names.flatMap(x=>x.split(",")).foreach(x=>print(x))
     print("hahah")
-    print("033")
-    print("04")
-    print("07")
-    println("test01")
-    println("hahh02")
+
 
 //    val strings = new util.ArrayList[String]()
 //    strings.add("aa")
