@@ -9,6 +9,8 @@ object test01 {
     print("05")
     print("06")
     print("08")
+    print("09")
+    print("066")
     print("07")
 //    val strings = new util.ArrayList[String]()
 //    strings.add("aa")
