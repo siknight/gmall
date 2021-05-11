@@ -10,6 +10,7 @@ object test01 {
     print("06")
     print("08")
     print("09")
+    print("077")
     print("066")
     print("07")
 //    val strings = new util.ArrayList[String]()
