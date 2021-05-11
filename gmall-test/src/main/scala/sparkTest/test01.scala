@@ -8,6 +8,8 @@ object test01 {
     print("04")
     print("05")
     print("06")
+    print("099")
+    print("010")
     print("08")
     print("09")
     print("077")
