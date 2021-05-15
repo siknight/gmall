@@ -17,6 +17,7 @@
         <module>flinkTest</module>
         <module>day-active</module>
         <module>dw-chart</module>
+        <module>gmall-canal</module>
     </modules>
 
     <parent>
