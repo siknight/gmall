@@ -18,6 +18,7 @@
         <module>day-active</module>
         <module>dw-chart</module>
         <module>gmall-canal</module>
+        <module>gmallEs</module>
     </modules>
 
     <parent>
