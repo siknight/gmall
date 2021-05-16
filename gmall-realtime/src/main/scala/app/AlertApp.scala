@@ -61,6 +61,7 @@ object AlertApp {
         (!isBrowserProduct && uids.size() >= 3, AlertInfo(mid, uids, itemIds, eventIds, System.currentTimeMillis()))
       }
     }
+
     //过滤掉不需要报警的信息
     val filteredDStream: DStream[AlertInfo] = checkCouponAlertDStream.filter(_._1).map(_._2)
     filteredDStream.print()
